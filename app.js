@@ -9,7 +9,7 @@ const ninput = document.querySelector('#name');
 const list = [
     {
         name: 'apples'
-    }
+    },
     {
         name: 'kale'
     }
